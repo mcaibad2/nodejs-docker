@@ -1,3 +1,5 @@
+This is an Node.js express web app that makes a connection to a mongodb database. Created as a plauground for docker and docker-compose.
+
 # Build docker image
 
 To build web app docker image use the following command (tag is important because it is used later on):
