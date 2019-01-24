@@ -2,7 +2,7 @@ version: '2.1'
 
 services:
     nodejs:
-        image: nodejs
+        image: adaskalopoulos/queen-apalaina:falcon
         build: .
         environment:
             NODE_ENV: production
